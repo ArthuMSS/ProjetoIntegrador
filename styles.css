@@ -1,0 +1,64 @@
+*{
+    font-family: "Montserrat", sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color: #000;
+}
+
+a:hover{
+    color: #5b5b5b;
+}
+
+#semestres>li>a{
+    font-size: 22px;
+}
+
+hr{
+    opacity: 100%;
+    border: 1px #f22 solid;
+}
+
+footer{
+    background-color: #f6f6f6;
+}
+
+#txt>p, #txt>li{
+    font-size: 22px;
+}
+
+.cont-alin{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.cont-alin img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50px;
+}
+
+.c1{
+    display: flex;
+    flex-direction: column;
+}
+
+.c2{
+    display: flex;
+    flex-direction: column;
+}
+
+.c3{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.c4{
+    display: flex;
+    flex-direction: column;
+}

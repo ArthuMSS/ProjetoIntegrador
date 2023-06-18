@@ -1,0 +1,15 @@
+Programação para dispositivos moveis:
+A unidade curricular Programação para Dispositivos Móveis visa propiciar a aquisição de capacidades técnicas relativas a aplicativos para dispositivos móveis e sua integração com demais plataformas, bem como o desenvolvimento das capacidades socioemocionais adequadas a diferentes situações profissionais.
+Carga horária: 75 horas presenciais e 25 horas não presenciais
+
+ Projetos:
+ A unidade curricular Projetos visa propiciar a aquisição de capacidades técnicas relativas ao planejamento, desenvolvimento e implantação de sistemas computacionais com foco nas necessidades do cliente, bem como o desenvolvimento das capacidades socioemocionais adequadas a diferentes situações profissionais
+Carga horária: 225 horas presenciais
+ Requisitos e modelagem de software:
+
+A unidade curricular Requisitos e Modelagem de Software visa proporcionar a aquisição de capacidades técnicas relativas ao levantamento, análise e proposição de soluções para atender as necessidades do cliente, tendo em vista o desenvolvimento de sistemas computacionais, bem como a aquisição das capacidades socioemocionais adequadas a diferentes situações profissionais.
+Carga horária: 45 horas presenciais
+ Testes de software:
+
+A unidade curricular Testes de Software visa desenvolver as capacidades técnicas relativas a elaboração de roteiro de teste e execução de cenários de testes que atenda às necessidades do cliente, bem como o desenvolvimento das capacidades socioemocionais adequadas a diferentes situações profissionais.
+Carga horária: 30 horas presenciais
